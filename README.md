@@ -1,2 +1,1 @@
-My first readme in ALX Software engineer program
-Updated from github
+This file is mandatory in projects
